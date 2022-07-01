@@ -5,7 +5,7 @@ Web and Mobile Developer
 ------------------------
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [umorenkaykay@gmail.com](mailto:dev.godsonumoren@gmail.com)
+* ✉️  You can contact me at [dev.godsonumoren@gmail.com](mailto:dev.godsonumoren@gmail.com)
 * 🧠  I'm learning Python and Flutter
 
 <a href="https://www.twitter.com/coding_w_godson" target="_blank" rel="noreferrer"><img
