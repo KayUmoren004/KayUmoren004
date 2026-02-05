@@ -5,7 +5,6 @@ Web and Mobile Developer
 ------------------------
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [umorenkaykay@gmail.com](mailto:umorenkaykay@gmail.com)
 * 🧠  I'm learning Advanced Java Development
 
 ### Skills
